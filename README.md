@@ -238,9 +238,3 @@ The `html` renderer for Flutter Web is not supported, and using it will cause un
 
 > If anybody is willing to help out the [Flutter Web](#flutter-web) issue or with testing it would be highly appreciated (either contact me through [my GitHub](https://github.com/omarhurani) or contribute and post a pull request).
 
-
-## Support Me
-
-If you like my work and would like to support me, feel free to do so :D
-
-<a href="https://www.buymeacoffee.com/omarhurani" target="_blank"><img src="https://i.imgur.com/OUmVzk7.png" alt="Buy Me A Pizza" height=60px/> </a>
